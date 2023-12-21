@@ -1,8 +1,11 @@
-### Olá, meu nome é Levi👋
+<h3>Sobre mim</h3>
 
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Graduado em Engenharia de Computação.
+- 💼 Trabalhando como Desenvolvedor Fullstack na <a href="https://auditto.com.br/">Auditto Tecnologia S/A</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Engenharia de Dados**.
 
-
-## 🚀 Minhas Skills
+<h3>Minhas Skills</h3>
 
 **Linguagens**
 
