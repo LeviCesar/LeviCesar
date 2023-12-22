@@ -40,6 +40,17 @@
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-333333?logo=PhpStorm)
 ![DataGrip](https://img.shields.io/badge/DataGrip-333333?logo=DataGrip)
 
+<br/>
+
+<a href="https://github.com/LeviCesar" title="Perfil do Levi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeviCesar&theme=dracula&show_icons=true" />
+</a>
+
+<h3>Onde me encontrar</h3>
+
+[![Linkedin](https://img.shields.io/badge/-Levi%20César-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levi-cesar-lima/)](https://www.linkedin.com/in/levi-cesar-lima/)
+[![Gmail Badge](https://img.shields.io/badge/-levilimadev@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:levilimadev@gmail.com)](Levi:levilimadev@gmail.com)
+
 <!--
 **LeviCesar/LeviCesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
