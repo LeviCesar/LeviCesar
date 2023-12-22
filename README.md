@@ -40,11 +40,13 @@
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-333333?logo=PhpStorm)
 ![DataGrip](https://img.shields.io/badge/DataGrip-333333?logo=DataGrip)
 
+<!--
 <br/>
 
 <a href="https://github.com/LeviCesar" title="Perfil do Levi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeviCesar&theme=dracula&show_icons=true" />
 </a>
+-->
 
 <h3>Onde me encontrar</h3>
 
