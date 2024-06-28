@@ -19,6 +19,8 @@
 **Banco de dados**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+![MongoDb](https://img.shields.io/badge/-MongoDb-333333?style=flat&logo=MongoDb)
 
 **Utilidades**
 
